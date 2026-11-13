@@ -21,7 +21,7 @@ For court, HR, insurance, landlord or police files, the free script is not enoug
 
 **[ChatExhibit](https://martincrescenzo-dotcom.github.io/chatexhibit/)** does that in the browser (nothing is uploaded): numbered transcript, cover sheet, page "x of y", SHA-256 of the original export. Also supports WhatsApp, Signal, Messenger, Instagram, Discord, Slack, Google Chat, LINE and KakaoTalk. Preview free, €9 one-time for the full PDF.
 
-See also: [whatsapp-chat-to-pdf](https://github.com/martincrescenzo-dotcom/whatsapp-chat-to-pdf).
+See also: [whatsapp-chat-to-pdf](https://github.com/martincrescenzo-dotcom/whatsapp-chat-to-pdf), [discord-chat-to-pdf](https://github.com/martincrescenzo-dotcom/discord-chat-to-pdf).
 
 ## License
 
